@@ -13,21 +13,22 @@ public class Realization {
     public int courseCost;                   // for all semester
     public int roomId;                       // room where course will take place
 
+    public double fitnessFunction;
 
-    public  static void GetRandom()
+    public static void GenerateRealization()
     {
         Realization temp = new Realization();
         temp.realizationId = Scheduler.realizations.size();
         Random rand = new Random();
 
-        int  n = rand.nextInt(Scheduler.courseTypesAmount);
-        temp.courseTypeId = n;
+        int  whichCourse = rand.nextInt(Scheduler.courseTypesAmount);
+        temp.courseTypeId = whichCourse;
 
-        temp.courseLength = Scheduler.courseTypes.get(n).courseLength;
-        temp.maxParticipantAmount = Scheduler.courseTypes.get(n).maxParticipantAmount;
+        temp.courseLength = Scheduler.courseTypes.get(whichCourse).courseLength;
+        temp.maxParticipantAmount = Scheduler.courseTypes.get(whichCourse).maxParticipantAmount;
         temp.enrolledParticipantAmount = 0;
-        temp.costForHiringLecturer = Scheduler.courseTypes.get(n).costForHiringLecturer;
-        temp.courseCost = Scheduler.courseTypes.get(n).courseCost;
+        temp.costForHiringLecturer = Scheduler.courseTypes.get(whichCourse).costForHiringLecturer;
+        temp.courseCost = Scheduler.courseTypes.get(whichCourse).courseCost;
         temp.roomId = -1;      // unassigned at the beginning
 
         Scheduler.realizations.add(temp);
@@ -35,17 +36,20 @@ public class Realization {
 
     public void PrintRealization()
     {
-        System.out.println("Realization: " + this.realizationId);
-        System.out.println("             " + this.courseTypeId);
-        System.out.println("             " + this.courseLength);
-        System.out.println("             " + this.maxParticipantAmount);
-        System.out.println("             " + this.enrolledParticipantAmount);
-        System.out.println("             " + this.costForHiringLecturer);
-        System.out.println("             " + this.courseCost);
-        System.out.println("             " + this.roomId);
+        System.out.println("Realization:     " + this.realizationId);
+        System.out.println("   courseType    " + this.courseTypeId);
+        System.out.println("   courseLength  " + this.courseLength);
+        System.out.println("   maxPartAmount " + this.maxParticipantAmount);
+        System.out.println("   enrolled      " + this.enrolledParticipantAmount);
+        System.out.println("   hiringCost    " + this.costForHiringLecturer);
+        System.out.println("   courseCost    " + this.courseCost);
+        System.out.println("   roomId        " + this.roomId);
         System.out.println();
 
     }
 
+    public double getFitnessFunction() {
+        return fitnessFunction;
+    }
 
 }

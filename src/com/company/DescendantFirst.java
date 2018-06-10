@@ -1,5 +1,5 @@
 package com.company;
-
+//----Liczenie wartości funkcji przystosowania i wydruk
 public class DescendantFirst implements  IDescendantMethods{
     public int participantId;
     public int realizationId;
@@ -14,7 +14,8 @@ public class DescendantFirst implements  IDescendantMethods{
 
     public double CalculateFitnessFunction()
     {
-        int preferedCoursesNumber = Scheduler.participants.get(participantId).preferences.size();
+        //int preferedCoursesNumber = Scheduler.participants.get(participantId).preferences.size();
+        int preferedCoursesNumber = Scheduler.participants.get(participantId).declarations.size();
         int preferedParticipantsInGroup = 0;
 
         Participant thisParticipant = Scheduler.participants.get(participantId);
@@ -22,14 +23,14 @@ public class DescendantFirst implements  IDescendantMethods{
 
         fitnessFuntionValue = 0;
 
-        if(!thisParticipant.declarations.containsKey(thisRealization.courseTypeId)) return fitnessFuntionValue;
+        if(!thisParticipant.declarations.containsKey(thisRealization.courseTypeId)) return 0;
         // this realization is not interesting for participant
 
 
         for(int i = 0; i<thisParticipant.preferences.size(); i++)
         {
-            Participant prefered = Scheduler.participants.get(thisParticipant.preferences.get(i));
-            if(prefered.declarations.containsValue(thisRealization.courseTypeId)) ++preferedParticipantsInGroup;
+            Participant preferedFriend = Scheduler.participants.get(thisParticipant.preferences.get(i));
+            if(preferedFriend.declarations.containsValue(thisRealization.courseTypeId)) ++preferedParticipantsInGroup;
         }
 
         fitnessFuntionValue = (preferedCoursesNumber*300 + (preferedParticipantsInGroup^2)*20);

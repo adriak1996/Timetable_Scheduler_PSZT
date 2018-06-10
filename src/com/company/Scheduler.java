@@ -18,47 +18,54 @@ public class Scheduler {
     static public int participantsIndexJump = participantsAmount/8;
     static public int realizationsIndexJump = realizationsAmount/8;
     static public int roomsIndexJump = roomsAmount/4;
+    static public double finalProfit = 0;
 
     public static void GenerateInputData()
     {
-
-
         for(int i = 0; i < Scheduler.participantsAmount; i++)
         {
-            Participant.GetRandom();
+            Participant.GenerateParticipants();
         }
 
         for(int i = 0; i < Scheduler.participantsAmount; i++)
         {
-            participants.get(i).GetPreferences();
+            participants.get(i).GeneratePreferences();
         }
 
         CourseType.GetCourseTypes();
 
         for(int i = 0; i < Scheduler.realizationsAmount; i++)
         {
-            Realization.GetRandom();
+            Realization.GenerateRealization();
         }
 
         for(int i = 0; i < Scheduler.roomsAmount; i++)
         {
-            Room.GetRandom();
+            Room.GenerateRoom();
         }
+//----------------drukowanie na ekran
+        //for (Participant p: Scheduler.participants) {
+        //    p.printParticipant();
+        //}
 
-        for (Participant p: Scheduler.participants) {
-            p.printParticipant();
-        }
+        //for (Realization r: Scheduler.realizations) {
+        //    r.PrintRealization();
+        //}
 
-        for (Realization r: Scheduler.realizations) {
-            r.PrintRealization();
-        }
-
-        for (Room r: Scheduler.rooms) {
-            r.PrintRoom();
-        }
+        //for (Room r: Scheduler.rooms) {
+        //    r.PrintRoom();
+        //}
 
 
     }
 
 
+    public static void CalculateFinalProfit()
+    {
+        finalProfit = 0;
+        for (Realization r: Scheduler.realizations) {
+            finalProfit += r.fitnessFunction;
+        }
+        System.out.println("Final: " + finalProfit);
+    }
 }

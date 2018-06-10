@@ -1,7 +1,6 @@
 package com.company;
 
 
-
 public class Main {
 
     public static void main(String[] args) {
@@ -14,16 +13,13 @@ public class Main {
         firstMatch.StartAlgorithmLoop();
         secondMatch.StartAlgorithmLoop();
 
-        for (Room r: Scheduler.rooms) {
-            r.PrintRoom();
-        }
+        //for (Room r: Scheduler.rooms) {
+        //    r.PrintRoom();
+        //}
 
-        for (Realization r: Scheduler.realizations) {
-            r.PrintRealization();
-        }
-
-
-
+        //for (Realization r: Scheduler.realizations) {
+        //    r.PrintRealization();
+        //}
 
     }
 }

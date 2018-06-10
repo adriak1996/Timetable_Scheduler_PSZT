@@ -14,9 +14,8 @@ public class Participant {
         preferences = new ArrayList<Integer>();
     }
     
-    public void printParticipant()
+    public void PrintParticipant()
     {
-
         System.out.println("#" + this.participantId);
         for (Map.Entry<Integer, Integer> m : this.declarations.entrySet())
     {
@@ -33,16 +32,13 @@ public class Participant {
         }
         
     }
-    
-    
 
-    static public void GetRandom()
+    static public void GenerateParticipants()
     {
         Participant temp = new Participant();
         temp.participantId = Scheduler.participants.size();
         Random rand = new Random();
 
-        int  n = rand.nextInt(Scheduler.courseTypesAmount) + 1;
 
         for(int i = 0; i < Scheduler.courseTypesAmount; i++)
         {
@@ -56,21 +52,21 @@ public class Participant {
         }
 
         if(temp.declarations.size() == 0)
-            GetRandom();
+            GenerateParticipants();
         else
             Scheduler.participants.add(temp);
 
 
     }
 
-    public void GetPreferences()
+    public void GeneratePreferences()
     {
         Random rand = new Random();
-        int  n = rand.nextInt(6) + 1;
+        int  friendsAmount = rand.nextInt(6);
 
-        for(int i = 0; i < n; i++)
+        for(int i = 0; i < friendsAmount; i++)
         {
-            int preferedParticipant = rand.nextInt(Scheduler.participantsAmount + 90) - 90;
+            int preferedParticipant = rand.nextInt(Scheduler.participantsAmount + 100) - 100;
             if(preferedParticipant >= 0)
             {
                 if(!this.preferences.contains(preferedParticipant))

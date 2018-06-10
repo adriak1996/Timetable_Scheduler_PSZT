@@ -4,22 +4,26 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Room {
+    public int maxHoursADay = 10;
+
     public int roomId;
     public int seatsNumber;
     public int leaseCost;  // for 1 hour
     public int occupiedHoursNumber;    // number of hours when there are courses in the room
 
-    public int[][] hoursSchedule = new int[3][10];    // if 0, room is free in that hour
+    public int[][] hoursSchedule = new int[3][maxHoursADay];    // if 0, room is free in that hour
     public int[] freeHoursInEachDay = new int[3];
+
 
     static public int[] possibleSeatsNumbersInRooms = new int[]  {30,40,50,60,70};
     static public int[] possibleLeasingCost = new int[]  {150,200,250,300,350};
 
 
+
     void CountOccupiedHoursNumber()
     {
         occupiedHoursNumber=0;
-        freeHoursInEachDay = new int[]{10, 10, 10};
+        freeHoursInEachDay = new int[]{maxHoursADay, maxHoursADay, maxHoursADay};
         int k = 0;
 
         for (int[] i: hoursSchedule)
@@ -36,7 +40,7 @@ public class Room {
 
     };
 
-    static public void GetRandom()
+    static public void GenerateRoom()
     {
         Room temp = new Room();
         temp.roomId = Scheduler.rooms.size();
@@ -86,4 +90,17 @@ public class Room {
 
 
     }
+
+    public int getHoursScheduleRows() {
+        return hoursSchedule.length;
+    }
+
+    public int getHoursScheduleCols() {
+        return hoursSchedule[0].length;
+    }
+
+    public int[][] getHoursSchedule() {
+        return hoursSchedule;
+    }
+
 }

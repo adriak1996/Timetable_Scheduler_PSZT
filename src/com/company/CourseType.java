@@ -18,12 +18,12 @@ public class CourseType {
 
     public static void GetCourseTypes()
     {
-        Scheduler.courseTypes.add(new CourseType(6,30,10000, 300));
-        Scheduler.courseTypes.add(new CourseType(6,20,8000, 250));
-        Scheduler.courseTypes.add(new CourseType(4,35,8000, 180));
-        Scheduler.courseTypes.add(new CourseType(4,60,8000, 200));
-        Scheduler.courseTypes.add(new CourseType(2,45,6000, 180));
-        Scheduler.courseTypes.add(new CourseType(2,40,3000, 100));
+        Scheduler.courseTypes.add(new CourseType(7,30,10000, 900));
+        Scheduler.courseTypes.add(new CourseType(6,20,8000, 750));
+        Scheduler.courseTypes.add(new CourseType(5,35,8000, 540));
+        Scheduler.courseTypes.add(new CourseType(4,60,8000, 500));
+        Scheduler.courseTypes.add(new CourseType(3,45,6000, 540));
+        Scheduler.courseTypes.add(new CourseType(2,40,3000, 300));
     }
 
 }
