@@ -13,32 +13,12 @@ public class Participant {
         declarations = new HashMap<Integer, Integer>();
         preferences = new ArrayList<Integer>();
     }
-    
-    public void PrintParticipant()
-    {
-        System.out.println("#" + this.participantId);
-        for (Map.Entry<Integer, Integer> m : this.declarations.entrySet())
-    {
-        System.out.println(" Declaration: " + m.getKey());
-        System.out.println("              " + m.getValue());
-        System.out.println();
-    }
-        System.out.println("Preferences: ");
-
-        for (Integer i : this.preferences)
-        {
-            System.out.println(i);
-            System.out.println();
-        }
-        
-    }
 
     static public void GenerateParticipants()
     {
         Participant temp = new Participant();
         temp.participantId = Scheduler.participants.size();
         Random rand = new Random();
-
 
         for(int i = 0; i < Scheduler.courseTypesAmount; i++)
         {
@@ -48,14 +28,12 @@ public class Participant {
                 if(!temp.declarations.containsKey(courseType))
                 temp.declarations.put(courseType, -1);
             }
-
         }
 
         if(temp.declarations.size() == 0)
             GenerateParticipants();
         else
             Scheduler.participants.add(temp);
-
 
     }
 
@@ -73,6 +51,27 @@ public class Participant {
                     this.preferences.add(preferedParticipant);
             }
         }
+    }
+
+
+    public String PrintParticipantIO()
+    {
+        int tempRoomID;
+        String output = ""
+                + "Participant ID #" + this.participantId + "\nCourse you are enrolled on:";
+        for (Map.Entry<Integer, Integer> m : this.declarations.entrySet())
+        {
+            if(m.getValue() != -1)
+            {
+                 tempRoomID = (Scheduler.realizations.get(m.getValue())).roomId;
+                 if(tempRoomID != -1)
+                 {
+                    output += "\n\t\t Realization: #" + m.getValue() + ",";
+                    output += "\tRoom: #" + tempRoomID;
+                 }
+            }
+        }
+        return output + "\n";
     }
 
 }

@@ -1,0 +1,484 @@
+Realization:      0
+	Fitness:      2700
+	courseType    3
+	courseLength  4
+	Lease cost    200
+	maxPartAmount 60
+	enrolled      23
+	hiringCost    8000
+	courseCost    500
+	roomId        7
+
+
+Realization:      1
+	Fitness:      8700
+	courseType    5
+	courseLength  2
+	Lease cost    150
+	maxPartAmount 40
+	enrolled      40
+	hiringCost    3000
+	courseCost    300
+	roomId        1
+
+
+Realization:      2
+	Fitness:      -10000
+	courseType    3
+	courseLength  4
+	Lease cost    ----
+	maxPartAmount 60
+	enrolled      17
+	hiringCost    8000
+	courseCost    500
+	roomId        -1
+
+
+Realization:      3
+	Fitness:      6510
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      24
+	hiringCost    6000
+	courseCost    540
+	roomId        4
+
+
+Realization:      4
+	Fitness:      10150
+	courseType    2
+	courseLength  5
+	Lease cost    150
+	maxPartAmount 35
+	enrolled      35
+	hiringCost    8000
+	courseCost    540
+	roomId        1
+
+
+Realization:      5
+	Fitness:      5500
+	courseType    1
+	courseLength  6
+	Lease cost    250
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        0
+
+
+Realization:      6
+	Fitness:      -10000
+	courseType    3
+	courseLength  4
+	Lease cost    ----
+	maxPartAmount 60
+	enrolled      18
+	hiringCost    8000
+	courseCost    500
+	roomId        -1
+
+
+Realization:      7
+	Fitness:      3200
+	courseType    3
+	courseLength  4
+	Lease cost    200
+	maxPartAmount 60
+	enrolled      24
+	hiringCost    8000
+	courseCost    500
+	roomId        7
+
+
+Realization:      8
+	Fitness:      8700
+	courseType    5
+	courseLength  2
+	Lease cost    150
+	maxPartAmount 40
+	enrolled      40
+	hiringCost    3000
+	courseCost    300
+	roomId        1
+
+
+Realization:      9
+	Fitness:      -10000
+	courseType    3
+	courseLength  4
+	Lease cost    ----
+	maxPartAmount 60
+	enrolled      14
+	hiringCost    8000
+	courseCost    500
+	roomId        -1
+
+
+Realization:      10
+	Fitness:      11450
+	courseType    0
+	courseLength  7
+	Lease cost    150
+	maxPartAmount 30
+	enrolled      25
+	hiringCost    10000
+	courseCost    900
+	roomId        6
+
+
+Realization:      11
+	Fitness:      8700
+	courseType    5
+	courseLength  2
+	Lease cost    150
+	maxPartAmount 40
+	enrolled      40
+	hiringCost    3000
+	courseCost    300
+	roomId        1
+
+
+Realization:      12
+	Fitness:      14070
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      38
+	hiringCost    6000
+	courseCost    540
+	roomId        1
+
+
+Realization:      13
+	Fitness:      9650
+	courseType    0
+	courseLength  7
+	Lease cost    150
+	maxPartAmount 30
+	enrolled      23
+	hiringCost    10000
+	courseCost    900
+	roomId        4
+
+
+Realization:      14
+	Fitness:      5800
+	courseType    1
+	courseLength  6
+	Lease cost    200
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        7
+
+
+Realization:      15
+	Fitness:      12350
+	courseType    0
+	courseLength  7
+	Lease cost    150
+	maxPartAmount 30
+	enrolled      26
+	hiringCost    10000
+	courseCost    900
+	roomId        4
+
+
+Realization:      16
+	Fitness:      10150
+	courseType    2
+	courseLength  5
+	Lease cost    150
+	maxPartAmount 35
+	enrolled      35
+	hiringCost    8000
+	courseCost    540
+	roomId        1
+
+
+Realization:      17
+	Fitness:      1500
+	courseType    3
+	courseLength  4
+	Lease cost    250
+	maxPartAmount 60
+	enrolled      21
+	hiringCost    8000
+	courseCost    500
+	roomId        0
+
+
+Realization:      18
+	Fitness:      6250
+	courseType    0
+	courseLength  7
+	Lease cost    250
+	maxPartAmount 30
+	enrolled      20
+	hiringCost    10000
+	courseCost    900
+	roomId        0
+
+
+Realization:      19
+	Fitness:      5200
+	courseType    1
+	courseLength  6
+	Lease cost    300
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        2
+
+
+Realization:      20
+	Fitness:      10150
+	courseType    2
+	courseLength  5
+	Lease cost    150
+	maxPartAmount 35
+	enrolled      35
+	hiringCost    8000
+	courseCost    540
+	roomId        1
+
+
+Realization:      21
+	Fitness:      8950
+	courseType    0
+	courseLength  7
+	Lease cost    250
+	maxPartAmount 30
+	enrolled      23
+	hiringCost    10000
+	courseCost    900
+	roomId        0
+
+
+Realization:      22
+	Fitness:      5350
+	courseType    0
+	courseLength  7
+	Lease cost    250
+	maxPartAmount 30
+	enrolled      19
+	hiringCost    10000
+	courseCost    900
+	roomId        3
+
+
+Realization:      23
+	Fitness:      3200
+	courseType    3
+	courseLength  4
+	Lease cost    200
+	maxPartAmount 60
+	enrolled      24
+	hiringCost    8000
+	courseCost    500
+	roomId        7
+
+
+Realization:      24
+	Fitness:      5800
+	courseType    1
+	courseLength  6
+	Lease cost    200
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        7
+
+
+Realization:      25
+	Fitness:      14150
+	courseType    0
+	courseLength  7
+	Lease cost    150
+	maxPartAmount 30
+	enrolled      28
+	hiringCost    10000
+	courseCost    900
+	roomId        4
+
+
+Realization:      26
+	Fitness:      8700
+	courseType    5
+	courseLength  2
+	Lease cost    150
+	maxPartAmount 40
+	enrolled      40
+	hiringCost    3000
+	courseCost    300
+	roomId        1
+
+
+Realization:      27
+	Fitness:      9650
+	courseType    0
+	courseLength  7
+	Lease cost    150
+	maxPartAmount 30
+	enrolled      23
+	hiringCost    10000
+	courseCost    900
+	roomId        6
+
+
+Realization:      28
+	Fitness:      11910
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      34
+	hiringCost    6000
+	courseCost    540
+	roomId        6
+
+
+Realization:      29
+	Fitness:      1500
+	courseType    3
+	courseLength  4
+	Lease cost    250
+	maxPartAmount 60
+	enrolled      21
+	hiringCost    8000
+	courseCost    500
+	roomId        3
+
+
+Realization:      30
+	Fitness:      5800
+	courseType    1
+	courseLength  6
+	Lease cost    200
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        7
+
+
+Realization:      31
+	Fitness:      5970
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      23
+	hiringCost    6000
+	courseCost    540
+	roomId        4
+
+
+Realization:      32
+	Fitness:      12450
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      35
+	hiringCost    6000
+	courseCost    540
+	roomId        1
+
+
+Realization:      33
+	Fitness:      7590
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      26
+	hiringCost    6000
+	courseCost    540
+	roomId        4
+
+
+Realization:      34
+	Fitness:      5500
+	courseType    1
+	courseLength  6
+	Lease cost    250
+	maxPartAmount 20
+	enrolled      20
+	hiringCost    8000
+	courseCost    750
+	roomId        3
+
+
+Realization:      35
+	Fitness:      5350
+	courseType    0
+	courseLength  7
+	Lease cost    250
+	maxPartAmount 30
+	enrolled      19
+	hiringCost    10000
+	courseCost    900
+	roomId        3
+
+
+Realization:      36
+	Fitness:      9210
+	courseType    4
+	courseLength  3
+	Lease cost    150
+	maxPartAmount 45
+	enrolled      29
+	hiringCost    6000
+	courseCost    540
+	roomId        6
+
+
+Realization:      37
+	Fitness:      -10000
+	courseType    3
+	courseLength  4
+	Lease cost    ----
+	maxPartAmount 60
+	enrolled      18
+	hiringCost    8000
+	courseCost    500
+	roomId        -1
+
+
+Realization:      38
+	Fitness:      10150
+	courseType    2
+	courseLength  5
+	Lease cost    150
+	maxPartAmount 35
+	enrolled      35
+	hiringCost    8000
+	courseCost    540
+	roomId        6
+
+
+Realization:      39
+	Fitness:      10150
+	courseType    2
+	courseLength  5
+	Lease cost    150
+	maxPartAmount 35
+	enrolled      35
+	hiringCost    8000
+	courseCost    540
+	roomId        6
+
+
+
+
+
+Realizations assigned: 36/40

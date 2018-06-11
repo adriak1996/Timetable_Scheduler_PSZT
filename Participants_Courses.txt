@@ -1,0 +1,2483 @@
+Participant ID #0
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #19,	Room: #2
+		 Realization: #1,	Room: #1
+
+Participant ID #1
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+
+Participant ID #2
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #5,	Room: #0
+		 Realization: #16,	Room: #1
+		 Realization: #12,	Room: #1
+
+Participant ID #3
+Course you are enrolled on:
+
+Participant ID #4
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #16,	Room: #1
+		 Realization: #33,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #5
+Course you are enrolled on:
+
+Participant ID #6
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #17,	Room: #0
+
+Participant ID #7
+Course you are enrolled on:
+
+Participant ID #8
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #34,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #31,	Room: #4
+
+Participant ID #9
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #0,	Room: #7
+		 Realization: #31,	Room: #4
+
+Participant ID #10
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #1,	Room: #1
+
+Participant ID #11
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #29,	Room: #3
+
+Participant ID #12
+Course you are enrolled on:
+
+Participant ID #13
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #14
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #39,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #15
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #7,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #16
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #14,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #17
+Course you are enrolled on:
+		 Realization: #8,	Room: #1
+
+Participant ID #18
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #19
+Course you are enrolled on:
+
+Participant ID #20
+Course you are enrolled on:
+
+Participant ID #21
+Course you are enrolled on:
+		 Realization: #31,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #22
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #12,	Room: #1
+
+Participant ID #23
+Course you are enrolled on:
+
+Participant ID #24
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+
+Participant ID #25
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #17,	Room: #0
+
+Participant ID #26
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #16,	Room: #1
+		 Realization: #33,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #27
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #28
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #38,	Room: #6
+		 Realization: #11,	Room: #1
+
+Participant ID #29
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #30
+Course you are enrolled on:
+
+Participant ID #31
+Course you are enrolled on:
+
+Participant ID #32
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #39,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #33
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #34
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #38,	Room: #6
+		 Realization: #3,	Room: #4
+
+Participant ID #35
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #4,	Room: #1
+
+Participant ID #36
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #29,	Room: #3
+		 Realization: #26,	Room: #1
+
+Participant ID #37
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #33,	Room: #4
+
+Participant ID #38
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #14,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #39
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+
+Participant ID #40
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #19,	Room: #2
+		 Realization: #0,	Room: #7
+		 Realization: #8,	Room: #1
+
+Participant ID #41
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+
+Participant ID #42
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #4,	Room: #1
+		 Realization: #36,	Room: #6
+
+Participant ID #43
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #23,	Room: #7
+		 Realization: #3,	Room: #4
+
+Participant ID #44
+Course you are enrolled on:
+		 Realization: #29,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #45
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+
+Participant ID #46
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #14,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #47
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #14,	Room: #7
+		 Realization: #33,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #48
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #49
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #26,	Room: #1
+
+Participant ID #50
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #51
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #32,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #52
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #17,	Room: #0
+		 Realization: #28,	Room: #6
+		 Realization: #11,	Room: #1
+
+Participant ID #53
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #20,	Room: #1
+		 Realization: #33,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #54
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #19,	Room: #2
+		 Realization: #4,	Room: #1
+
+Participant ID #55
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #3,	Room: #4
+
+Participant ID #56
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #12,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #57
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #58
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #17,	Room: #0
+		 Realization: #36,	Room: #6
+
+Participant ID #59
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #12,	Room: #1
+
+Participant ID #60
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #39,	Room: #6
+
+Participant ID #61
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+
+Participant ID #62
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #19,	Room: #2
+		 Realization: #38,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #63
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+
+Participant ID #64
+Course you are enrolled on:
+
+Participant ID #65
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+
+Participant ID #66
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #3,	Room: #4
+
+Participant ID #67
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #68
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+
+Participant ID #69
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+
+Participant ID #70
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #71
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #72
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #34,	Room: #3
+		 Realization: #38,	Room: #6
+
+Participant ID #73
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #31,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #74
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #75
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #0,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #76
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+
+Participant ID #77
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+
+Participant ID #78
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #17,	Room: #0
+		 Realization: #31,	Room: #4
+
+Participant ID #79
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #32,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #80
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #81
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #4,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #82
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #14,	Room: #7
+		 Realization: #12,	Room: #1
+
+Participant ID #83
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #33,	Room: #4
+
+Participant ID #84
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #85
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #39,	Room: #6
+		 Realization: #0,	Room: #7
+		 Realization: #36,	Room: #6
+
+Participant ID #86
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+		 Realization: #3,	Room: #4
+
+Participant ID #87
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+		 Realization: #31,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #88
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #89
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #7,	Room: #7
+		 Realization: #1,	Room: #1
+
+Participant ID #90
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+
+Participant ID #91
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #92
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #33,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #93
+Course you are enrolled on:
+
+Participant ID #94
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #20,	Room: #1
+		 Realization: #7,	Room: #7
+
+Participant ID #95
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+
+Participant ID #96
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+
+Participant ID #97
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #30,	Room: #7
+		 Realization: #32,	Room: #1
+
+Participant ID #98
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+
+Participant ID #99
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #0,	Room: #7
+		 Realization: #3,	Room: #4
+
+Participant ID #100
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+
+Participant ID #101
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #29,	Room: #3
+
+Participant ID #102
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #12,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #103
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+
+Participant ID #104
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #3,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #105
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #5,	Room: #0
+		 Realization: #20,	Room: #1
+		 Realization: #32,	Room: #1
+
+Participant ID #106
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #29,	Room: #3
+
+Participant ID #107
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #108
+Course you are enrolled on:
+
+Participant ID #109
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #0,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #110
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #29,	Room: #3
+		 Realization: #3,	Room: #4
+
+Participant ID #111
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #24,	Room: #7
+
+Participant ID #112
+Course you are enrolled on:
+		 Realization: #31,	Room: #4
+
+Participant ID #113
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+		 Realization: #36,	Room: #6
+
+Participant ID #114
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #4,	Room: #1
+		 Realization: #7,	Room: #7
+		 Realization: #31,	Room: #4
+
+Participant ID #115
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #23,	Room: #7
+		 Realization: #3,	Room: #4
+
+Participant ID #116
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+
+Participant ID #117
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+
+Participant ID #118
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #12,	Room: #1
+
+Participant ID #119
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #19,	Room: #2
+		 Realization: #11,	Room: #1
+
+Participant ID #120
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #20,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #121
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #122
+Course you are enrolled on:
+
+Participant ID #123
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+
+Participant ID #124
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #125
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #0,	Room: #7
+		 Realization: #1,	Room: #1
+
+Participant ID #126
+Course you are enrolled on:
+		 Realization: #1,	Room: #1
+
+Participant ID #127
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #23,	Room: #7
+
+Participant ID #128
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+
+Participant ID #129
+Course you are enrolled on:
+
+Participant ID #130
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #32,	Room: #1
+
+Participant ID #131
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #132
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #133
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #134
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #20,	Room: #1
+		 Realization: #28,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #135
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #16,	Room: #1
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #136
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #32,	Room: #1
+
+Participant ID #137
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #8,	Room: #1
+
+Participant ID #138
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+
+Participant ID #139
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #5,	Room: #0
+		 Realization: #26,	Room: #1
+
+Participant ID #140
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #4,	Room: #1
+		 Realization: #12,	Room: #1
+
+Participant ID #141
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+
+Participant ID #142
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #143
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #30,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #7,	Room: #7
+
+Participant ID #144
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #145
+Course you are enrolled on:
+
+Participant ID #146
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #147
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #19,	Room: #2
+		 Realization: #4,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #148
+Course you are enrolled on:
+
+Participant ID #149
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #33,	Room: #4
+
+Participant ID #150
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #151
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #7,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #152
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #33,	Room: #4
+
+Participant ID #153
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #154
+Course you are enrolled on:
+
+Participant ID #155
+Course you are enrolled on:
+
+Participant ID #156
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #157
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+
+Participant ID #158
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+
+Participant ID #159
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #33,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #160
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #161
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #11,	Room: #1
+
+Participant ID #162
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #36,	Room: #6
+
+Participant ID #163
+Course you are enrolled on:
+
+Participant ID #164
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #32,	Room: #1
+
+Participant ID #165
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #36,	Room: #6
+
+Participant ID #166
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #167
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #28,	Room: #6
+
+Participant ID #168
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #3,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #169
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #170
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #39,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #171
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #39,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #172
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #29,	Room: #3
+		 Realization: #32,	Room: #1
+
+Participant ID #173
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #174
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #175
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #176
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #24,	Room: #7
+		 Realization: #20,	Room: #1
+
+Participant ID #177
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #14,	Room: #7
+		 Realization: #39,	Room: #6
+
+Participant ID #178
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #179
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #38,	Room: #6
+		 Realization: #12,	Room: #1
+
+Participant ID #180
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #181
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #182
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #183
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+		 Realization: #32,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #184
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+
+Participant ID #185
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #38,	Room: #6
+		 Realization: #0,	Room: #7
+
+Participant ID #186
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #187
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #5,	Room: #0
+		 Realization: #17,	Room: #0
+
+Participant ID #188
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #189
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+
+Participant ID #190
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #34,	Room: #3
+		 Realization: #7,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #191
+Course you are enrolled on:
+		 Realization: #26,	Room: #1
+
+Participant ID #192
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #14,	Room: #7
+		 Realization: #32,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #193
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #36,	Room: #6
+
+Participant ID #194
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #195
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+
+Participant ID #196
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #197
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #5,	Room: #0
+		 Realization: #28,	Room: #6
+
+Participant ID #198
+Course you are enrolled on:
+
+Participant ID #199
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+
+Participant ID #200
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #201
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #34,	Room: #3
+		 Realization: #7,	Room: #7
+		 Realization: #36,	Room: #6
+
+Participant ID #202
+Course you are enrolled on:
+
+Participant ID #203
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #5,	Room: #0
+		 Realization: #1,	Room: #1
+
+Participant ID #204
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #205
+Course you are enrolled on:
+
+Participant ID #206
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+
+Participant ID #207
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #23,	Room: #7
+		 Realization: #32,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #208
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #5,	Room: #0
+		 Realization: #23,	Room: #7
+		 Realization: #28,	Room: #6
+
+Participant ID #209
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #29,	Room: #3
+		 Realization: #28,	Room: #6
+
+Participant ID #210
+Course you are enrolled on:
+
+Participant ID #211
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+		 Realization: #32,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #212
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #24,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #213
+Course you are enrolled on:
+		 Realization: #8,	Room: #1
+
+Participant ID #214
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #20,	Room: #1
+		 Realization: #36,	Room: #6
+
+Participant ID #215
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #39,	Room: #6
+		 Realization: #28,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #216
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #217
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #218
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #219
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #30,	Room: #7
+		 Realization: #8,	Room: #1
+
+Participant ID #220
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #7,	Room: #7
+		 Realization: #28,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #221
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #34,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #23,	Room: #7
+
+Participant ID #222
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #17,	Room: #0
+
+Participant ID #223
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+		 Realization: #28,	Room: #6
+
+Participant ID #224
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #16,	Room: #1
+		 Realization: #7,	Room: #7
+		 Realization: #1,	Room: #1
+
+Participant ID #225
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #16,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #226
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #227
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+
+Participant ID #228
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #229
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #20,	Room: #1
+
+Participant ID #230
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #32,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #231
+Course you are enrolled on:
+
+Participant ID #232
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #5,	Room: #0
+		 Realization: #8,	Room: #1
+
+Participant ID #233
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #234
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #33,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #235
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #7,	Room: #7
+		 Realization: #26,	Room: #1
+
+Participant ID #236
+Course you are enrolled on:
+		 Realization: #31,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #237
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #11,	Room: #1
+
+Participant ID #238
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #20,	Room: #1
+		 Realization: #28,	Room: #6
+
+Participant ID #239
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #19,	Room: #2
+		 Realization: #12,	Room: #1
+
+Participant ID #240
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #24,	Room: #7
+		 Realization: #26,	Room: #1
+
+Participant ID #241
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #20,	Room: #1
+		 Realization: #0,	Room: #7
+		 Realization: #12,	Room: #1
+
+Participant ID #242
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #32,	Room: #1
+
+Participant ID #243
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #12,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #244
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #4,	Room: #1
+		 Realization: #23,	Room: #7
+		 Realization: #12,	Room: #1
+
+Participant ID #245
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #20,	Room: #1
+		 Realization: #28,	Room: #6
+
+Participant ID #246
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #28,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #247
+Course you are enrolled on:
+		 Realization: #31,	Room: #4
+
+Participant ID #248
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #38,	Room: #6
+		 Realization: #7,	Room: #7
+
+Participant ID #249
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #250
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #251
+Course you are enrolled on:
+
+Participant ID #252
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #253
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #24,	Room: #7
+		 Realization: #28,	Room: #6
+
+Participant ID #254
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #23,	Room: #7
+
+Participant ID #255
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #16,	Room: #1
+		 Realization: #28,	Room: #6
+
+Participant ID #256
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #17,	Room: #0
+		 Realization: #8,	Room: #1
+
+Participant ID #257
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #29,	Room: #3
+		 Realization: #33,	Room: #4
+
+Participant ID #258
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #259
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #260
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #30,	Room: #7
+		 Realization: #39,	Room: #6
+
+Participant ID #261
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #28,	Room: #6
+
+Participant ID #262
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #263
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+
+Participant ID #264
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #4,	Room: #1
+		 Realization: #12,	Room: #1
+
+Participant ID #265
+Course you are enrolled on:
+		 Realization: #26,	Room: #1
+
+Participant ID #266
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #24,	Room: #7
+		 Realization: #12,	Room: #1
+
+Participant ID #267
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #12,	Room: #1
+
+Participant ID #268
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #20,	Room: #1
+		 Realization: #36,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #269
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+
+Participant ID #270
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #4,	Room: #1
+		 Realization: #29,	Room: #3
+
+Participant ID #271
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #272
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #36,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #273
+Course you are enrolled on:
+		 Realization: #29,	Room: #3
+
+Participant ID #274
+Course you are enrolled on:
+
+Participant ID #275
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #276
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #12,	Room: #1
+
+Participant ID #277
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #278
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #8,	Room: #1
+
+Participant ID #279
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #280
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #19,	Room: #2
+		 Realization: #29,	Room: #3
+
+Participant ID #281
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #30,	Room: #7
+		 Realization: #29,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #282
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #36,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #283
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #4,	Room: #1
+		 Realization: #33,	Room: #4
+
+Participant ID #284
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #285
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #286
+Course you are enrolled on:
+
+Participant ID #287
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #29,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #288
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #32,	Room: #1
+
+Participant ID #289
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #29,	Room: #3
+		 Realization: #26,	Room: #1
+
+Participant ID #290
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #38,	Room: #6
+		 Realization: #32,	Room: #1
+
+Participant ID #291
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #5,	Room: #0
+		 Realization: #4,	Room: #1
+
+Participant ID #292
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #31,	Room: #4
+
+Participant ID #293
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #39,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #294
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #1,	Room: #1
+
+Participant ID #295
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #14,	Room: #7
+		 Realization: #29,	Room: #3
+
+Participant ID #296
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #16,	Room: #1
+		 Realization: #33,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #297
+Course you are enrolled on:
+
+Participant ID #298
+Course you are enrolled on:
+
+Participant ID #299
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #14,	Room: #7
+		 Realization: #4,	Room: #1
+		 Realization: #36,	Room: #6
+
+Participant ID #300
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #3,	Room: #4
+
+Participant ID #301
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #19,	Room: #2
+		 Realization: #38,	Room: #6
+		 Realization: #7,	Room: #7
+
+Participant ID #302
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #36,	Room: #6
+
+Participant ID #303
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #0,	Room: #7
+		 Realization: #26,	Room: #1
+
+Participant ID #304
+Course you are enrolled on:
+
+Participant ID #305
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #306
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #24,	Room: #7
+		 Realization: #39,	Room: #6
+
+Participant ID #307
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #16,	Room: #1
+
+Participant ID #308
+Course you are enrolled on:
+
+Participant ID #309
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #39,	Room: #6
+		 Realization: #29,	Room: #3
+
+Participant ID #310
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #311
+Course you are enrolled on:
+
+Participant ID #312
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #34,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #313
+Course you are enrolled on:
+
+Participant ID #314
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #315
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #316
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #317
+Course you are enrolled on:
+
+Participant ID #318
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #7,	Room: #7
+
+Participant ID #319
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #5,	Room: #0
+
+Participant ID #320
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #321
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #322
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #4,	Room: #1
+
+Participant ID #323
+Course you are enrolled on:
+
+Participant ID #324
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+
+Participant ID #325
+Course you are enrolled on:
+
+Participant ID #326
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #32,	Room: #1
+
+Participant ID #327
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+		 Realization: #11,	Room: #1
+
+Participant ID #328
+Course you are enrolled on:
+
+Participant ID #329
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #0,	Room: #7
+		 Realization: #1,	Room: #1
+
+Participant ID #330
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #331
+Course you are enrolled on:
+
+Participant ID #332
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+		 Realization: #31,	Room: #4
+
+Participant ID #333
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #334
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #3,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #335
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #17,	Room: #0
+		 Realization: #31,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #336
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #337
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #23,	Room: #7
+		 Realization: #26,	Room: #1
+
+Participant ID #338
+Course you are enrolled on:
+
+Participant ID #339
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #20,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #340
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #4,	Room: #1
+		 Realization: #23,	Room: #7
+
+Participant ID #341
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #342
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+
+Participant ID #343
+Course you are enrolled on:
+		 Realization: #29,	Room: #3
+		 Realization: #28,	Room: #6
+
+Participant ID #344
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #345
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+
+Participant ID #346
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #31,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #347
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #38,	Room: #6
+		 Realization: #23,	Room: #7
+
+Participant ID #348
+Course you are enrolled on:
+		 Realization: #7,	Room: #7
+
+Participant ID #349
+Course you are enrolled on:
+
+Participant ID #350
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+
+Participant ID #351
+Course you are enrolled on:
+
+Participant ID #352
+Course you are enrolled on:
+		 Realization: #28,	Room: #6
+
+Participant ID #353
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #34,	Room: #3
+		 Realization: #4,	Room: #1
+
+Participant ID #354
+Course you are enrolled on:
+
+Participant ID #355
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #30,	Room: #7
+		 Realization: #12,	Room: #1
+
+Participant ID #356
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+
+Participant ID #357
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #23,	Room: #7
+		 Realization: #31,	Room: #4
+
+Participant ID #358
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #359
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #360
+Course you are enrolled on:
+		 Realization: #29,	Room: #3
+		 Realization: #3,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #361
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #38,	Room: #6
+		 Realization: #17,	Room: #0
+		 Realization: #28,	Room: #6
+
+Participant ID #362
+Course you are enrolled on:
+		 Realization: #29,	Room: #3
+
+Participant ID #363
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #34,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #364
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #365
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+
+Participant ID #366
+Course you are enrolled on:
+
+Participant ID #367
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #33,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #368
+Course you are enrolled on:
+
+Participant ID #369
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+
+Participant ID #370
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #36,	Room: #6
+
+Participant ID #371
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #17,	Room: #0
+
+Participant ID #372
+Course you are enrolled on:
+		 Realization: #11,	Room: #1
+
+Participant ID #373
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #1,	Room: #1
+
+Participant ID #374
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #34,	Room: #3
+		 Realization: #16,	Room: #1
+		 Realization: #28,	Room: #6
+
+Participant ID #375
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #38,	Room: #6
+		 Realization: #23,	Room: #7
+		 Realization: #8,	Room: #1
+
+Participant ID #376
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #5,	Room: #0
+
+Participant ID #377
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #39,	Room: #6
+		 Realization: #28,	Room: #6
+
+Participant ID #378
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #379
+Course you are enrolled on:
+
+Participant ID #380
+Course you are enrolled on:
+
+Participant ID #381
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #23,	Room: #7
+
+Participant ID #382
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #383
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+
+Participant ID #384
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+		 Realization: #1,	Room: #1
+
+Participant ID #385
+Course you are enrolled on:
+
+Participant ID #386
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #387
+Course you are enrolled on:
+
+Participant ID #388
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #31,	Room: #4
+
+Participant ID #389
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+		 Realization: #32,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #390
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #39,	Room: #6
+		 Realization: #3,	Room: #4
+
+Participant ID #391
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+
+Participant ID #392
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #393
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #394
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #31,	Room: #4
+
+Participant ID #395
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #38,	Room: #6
+		 Realization: #0,	Room: #7
+
+Participant ID #396
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #20,	Room: #1
+		 Realization: #23,	Room: #7
+		 Realization: #36,	Room: #6
+
+Participant ID #397
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #30,	Room: #7
+		 Realization: #3,	Room: #4
+
+Participant ID #398
+Course you are enrolled on:
+
+Participant ID #399
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+
+Participant ID #400
+Course you are enrolled on:
+		 Realization: #34,	Room: #3
+		 Realization: #16,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #401
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #14,	Room: #7
+		 Realization: #4,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #402
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #403
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #20,	Room: #1
+		 Realization: #26,	Room: #1
+
+Participant ID #404
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #29,	Room: #3
+		 Realization: #12,	Room: #1
+
+Participant ID #405
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #38,	Room: #6
+
+Participant ID #406
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+		 Realization: #31,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #407
+Course you are enrolled on:
+
+Participant ID #408
+Course you are enrolled on:
+
+Participant ID #409
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+
+Participant ID #410
+Course you are enrolled on:
+		 Realization: #8,	Room: #1
+
+Participant ID #411
+Course you are enrolled on:
+
+Participant ID #412
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #30,	Room: #7
+		 Realization: #32,	Room: #1
+
+Participant ID #413
+Course you are enrolled on:
+
+Participant ID #414
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+		 Realization: #8,	Room: #1
+
+Participant ID #415
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #36,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #416
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #17,	Room: #0
+
+Participant ID #417
+Course you are enrolled on:
+
+Participant ID #418
+Course you are enrolled on:
+
+Participant ID #419
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #30,	Room: #7
+		 Realization: #4,	Room: #1
+		 Realization: #17,	Room: #0
+		 Realization: #33,	Room: #4
+
+Participant ID #420
+Course you are enrolled on:
+
+Participant ID #421
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #422
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+
+Participant ID #423
+Course you are enrolled on:
+
+Participant ID #424
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #34,	Room: #3
+		 Realization: #38,	Room: #6
+		 Realization: #23,	Room: #7
+
+Participant ID #425
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #38,	Room: #6
+		 Realization: #28,	Room: #6
+
+Participant ID #426
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #3,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #427
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+		 Realization: #36,	Room: #6
+
+Participant ID #428
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #38,	Room: #6
+		 Realization: #0,	Room: #7
+
+Participant ID #429
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #31,	Room: #4
+
+Participant ID #430
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #431
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #36,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #432
+Course you are enrolled on:
+
+Participant ID #433
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+
+Participant ID #434
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #435
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #8,	Room: #1
+
+Participant ID #436
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+
+Participant ID #437
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #16,	Room: #1
+		 Realization: #31,	Room: #4
+
+Participant ID #438
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #0,	Room: #7
+		 Realization: #26,	Room: #1
+
+Participant ID #439
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #440
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+		 Realization: #11,	Room: #1
+
+Participant ID #441
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #442
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+		 Realization: #28,	Room: #6
+
+Participant ID #443
+Course you are enrolled on:
+		 Realization: #39,	Room: #6
+
+Participant ID #444
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #0,	Room: #7
+
+Participant ID #445
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #446
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+
+Participant ID #447
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #448
+Course you are enrolled on:
+
+Participant ID #449
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #450
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #20,	Room: #1
+		 Realization: #0,	Room: #7
+
+Participant ID #451
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #452
+Course you are enrolled on:
+
+Participant ID #453
+Course you are enrolled on:
+		 Realization: #19,	Room: #2
+		 Realization: #17,	Room: #0
+		 Realization: #32,	Room: #1
+
+Participant ID #454
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #38,	Room: #6
+		 Realization: #26,	Room: #1
+
+Participant ID #455
+Course you are enrolled on:
+
+Participant ID #456
+Course you are enrolled on:
+
+Participant ID #457
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #34,	Room: #3
+		 Realization: #8,	Room: #1
+
+Participant ID #458
+Course you are enrolled on:
+		 Realization: #5,	Room: #0
+		 Realization: #16,	Room: #1
+		 Realization: #7,	Room: #7
+		 Realization: #31,	Room: #4
+		 Realization: #1,	Room: #1
+
+Participant ID #459
+Course you are enrolled on:
+		 Realization: #32,	Room: #1
+
+Participant ID #460
+Course you are enrolled on:
+		 Realization: #17,	Room: #0
+		 Realization: #32,	Room: #1
+
+Participant ID #461
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #19,	Room: #2
+		 Realization: #26,	Room: #1
+
+Participant ID #462
+Course you are enrolled on:
+
+Participant ID #463
+Course you are enrolled on:
+
+Participant ID #464
+Course you are enrolled on:
+		 Realization: #24,	Room: #7
+		 Realization: #39,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #465
+Course you are enrolled on:
+
+Participant ID #466
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #4,	Room: #1
+
+Participant ID #467
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #31,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #468
+Course you are enrolled on:
+		 Realization: #26,	Room: #1
+
+Participant ID #469
+Course you are enrolled on:
+		 Realization: #12,	Room: #1
+
+Participant ID #470
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #33,	Room: #4
+		 Realization: #8,	Room: #1
+
+Participant ID #471
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #19,	Room: #2
+		 Realization: #39,	Room: #6
+		 Realization: #8,	Room: #1
+
+Participant ID #472
+Course you are enrolled on:
+		 Realization: #16,	Room: #1
+		 Realization: #32,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #473
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #33,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #474
+Course you are enrolled on:
+		 Realization: #36,	Room: #6
+
+Participant ID #475
+Course you are enrolled on:
+		 Realization: #3,	Room: #4
+
+Participant ID #476
+Course you are enrolled on:
+		 Realization: #14,	Room: #7
+		 Realization: #23,	Room: #7
+		 Realization: #12,	Room: #1
+		 Realization: #1,	Room: #1
+
+Participant ID #477
+Course you are enrolled on:
+		 Realization: #30,	Room: #7
+		 Realization: #36,	Room: #6
+
+Participant ID #478
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #479
+Course you are enrolled on:
+		 Realization: #0,	Room: #7
+		 Realization: #8,	Room: #1
+
+Participant ID #480
+Course you are enrolled on:
+		 Realization: #31,	Room: #4
+
+Participant ID #481
+Course you are enrolled on:
+		 Realization: #38,	Room: #6
+		 Realization: #1,	Room: #1
+
+Participant ID #482
+Course you are enrolled on:
+		 Realization: #23,	Room: #7
+
+Participant ID #483
+Course you are enrolled on:
+		 Realization: #22,	Room: #3
+		 Realization: #30,	Room: #7
+		 Realization: #32,	Room: #1
+
+Participant ID #484
+Course you are enrolled on:
+		 Realization: #4,	Room: #1
+		 Realization: #17,	Room: #0
+		 Realization: #12,	Room: #1
+
+Participant ID #485
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+		 Realization: #38,	Room: #6
+
+Participant ID #486
+Course you are enrolled on:
+		 Realization: #27,	Room: #6
+		 Realization: #33,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #487
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+		 Realization: #11,	Room: #1
+
+Participant ID #488
+Course you are enrolled on:
+		 Realization: #10,	Room: #6
+		 Realization: #3,	Room: #4
+
+Participant ID #489
+Course you are enrolled on:
+
+Participant ID #490
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+		 Realization: #26,	Room: #1
+
+Participant ID #491
+Course you are enrolled on:
+		 Realization: #15,	Room: #4
+
+Participant ID #492
+Course you are enrolled on:
+		 Realization: #13,	Room: #4
+
+Participant ID #493
+Course you are enrolled on:
+		 Realization: #25,	Room: #4
+		 Realization: #14,	Room: #7
+		 Realization: #8,	Room: #1
+
+Participant ID #494
+Course you are enrolled on:
+		 Realization: #33,	Room: #4
+
+Participant ID #495
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #36,	Room: #6
+		 Realization: #11,	Room: #1
+
+Participant ID #496
+Course you are enrolled on:
+		 Realization: #18,	Room: #0
+
+Participant ID #497
+Course you are enrolled on:
+		 Realization: #35,	Room: #3
+		 Realization: #11,	Room: #1
+
+Participant ID #498
+Course you are enrolled on:
+		 Realization: #20,	Room: #1
+		 Realization: #3,	Room: #4
+
+Participant ID #499
+Course you are enrolled on:
+		 Realization: #21,	Room: #0
+		 Realization: #30,	Room: #7
+		 Realization: #16,	Room: #1
+

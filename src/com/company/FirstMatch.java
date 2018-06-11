@@ -27,7 +27,7 @@ public class FirstMatch {
 
         while(successfulDescendantRatioThread > 0.01)
         {
-            mThread = 1500;
+            mThread = 500;
             successAmountThread = 0;
             successfulDescendantRatioThread = 0;
 
@@ -36,33 +36,21 @@ public class FirstMatch {
                 DescendantFirst temp = EvolutionaryAlgorithm();
                 if (temp != null)
                 {
-                    //System.out.println("part: "+successAmountThread);
                     ++successAmountThread;
                     AssignDescendant(temp);
                 }
             }
             successfulDescendantRatioThread = (double) successAmountThread / (double) mThread;
         }
-        //---wydruk przypisanych rezultatow
-        //for (Participant p: Scheduler.participants) {
-        //    p.PrintParticipant();
-        //}
-
-        //for (Realization r: Scheduler.realizations) {
-        //    r.PrintRealization();
-        //}
-
-
-
-    };
+    }
 
     public DescendantFirst EvolutionaryAlgorithm()
     {
         successAmount = 0;
-        mIteration = 10;
-        sigmaParticipant = 3; //Scheduler.participantsAmount/8;
-        sigmaRealization = 3; //Scheduler.realizationsAmount/8;
-        successRatio = 0;
+        mIteration = 200;
+        sigmaParticipant = 3;
+        sigmaRealization = 3;
+        successRatio = 0.0;
 
         Random rand = new Random();
 
@@ -99,24 +87,17 @@ public class FirstMatch {
 
                 if((next.fitnessFuntionValue > current.fitnessFuntionValue) && ValidateDescendant(next))
                 {
-                    //System.out.println("nextFitness: " + next.fitnessFuntionValue + ": > currentValue: " + current.fitnessFuntionValue);
                     current = next;
                     ++successAmount;
-                    //current.PrintDescendantFirst();
                 }
             }
 
-            successRatio = successAmount/mIteration;
+            successRatio = (double) successAmount/(double) mIteration;
             SetSigmas();
         }
 
-
-
-
         return current;
-    };
-
-
+    }
 
 
     public boolean ValidateDescendant(DescendantFirst descendant)
@@ -124,7 +105,7 @@ public class FirstMatch {
         Participant thisParticipant = Scheduler.participants.get(descendant.participantId);
         Realization thisRealization = Scheduler.realizations.get(descendant.realizationId);
 
-        if(!(thisParticipant.declarations.containsKey(thisRealization.courseTypeId)))
+        if(!(thisParticipant.declarations.containsKey(thisRealization.courseTypeId)))//Course has already  been chosen
             return false;
 
 
@@ -137,7 +118,7 @@ public class FirstMatch {
 
         return true;
 
-    };
+    }
 
     public void AssignDescendant(DescendantFirst descendant)
     {
@@ -145,7 +126,7 @@ public class FirstMatch {
         Realization thisRealization = Scheduler.realizations.get(descendant.realizationId);
         thisRealization.enrolledParticipantAmount+=1;
         thisParticipant.declarations.put(thisRealization.courseTypeId, thisRealization.realizationId);
-    };
+    }
 
 
     public void SetSigmas()

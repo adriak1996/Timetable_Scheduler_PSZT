@@ -1,5 +1,5 @@
 package com.company;
-//----Liczenie wartości funkcji przystosowania i wydruk
+
 public class DescendantFirst implements  IDescendantMethods{
     public int participantId;
     public int realizationId;
@@ -14,7 +14,6 @@ public class DescendantFirst implements  IDescendantMethods{
 
     public double CalculateFitnessFunction()
     {
-        //int preferedCoursesNumber = Scheduler.participants.get(participantId).preferences.size();
         int preferedCoursesNumber = Scheduler.participants.get(participantId).declarations.size();
         int preferedParticipantsInGroup = 0;
 
@@ -33,22 +32,8 @@ public class DescendantFirst implements  IDescendantMethods{
             if(preferedFriend.declarations.containsValue(thisRealization.courseTypeId)) ++preferedParticipantsInGroup;
         }
 
-        fitnessFuntionValue = (preferedCoursesNumber*300 + (preferedParticipantsInGroup^2)*20);
+        fitnessFuntionValue = (preferedCoursesNumber*590 + (preferedParticipantsInGroup^2)*30);
 
         return fitnessFuntionValue;
     }
-
-    void PrintDescendantFirst()
-    {
-        Participant thisParticipant = Scheduler.participants.get(participantId);
-        Realization thisRealization = Scheduler.realizations.get(realizationId);
-
-        /*System.out.println("Better match");
-        System.out.println(fitnessFuntionValue);
-        System.out.println(participantId);
-        System.out.println(realizationId);
-        System.out.println(); */
-    }
-
-
 }

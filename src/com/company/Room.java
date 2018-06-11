@@ -4,21 +4,30 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class Room {
-    public int maxHoursADay = 10;
+    public static int maxHoursADay = 10;
 
     public int roomId;
     public int seatsNumber;
     public int leaseCost;  // for 1 hour
     public int occupiedHoursNumber;    // number of hours when there are courses in the room
+    public static int dayQuantity = 3;
+    public int[][] hoursSchedule = new int[dayQuantity][maxHoursADay];    // if -1, room is free in that hour
+    public int[] freeHoursInEachDay;
 
-    public int[][] hoursSchedule = new int[3][maxHoursADay];    // if 0, room is free in that hour
-    public int[] freeHoursInEachDay = new int[3];
-
-
-    static public int[] possibleSeatsNumbersInRooms = new int[]  {30,40,50,60,70};
+    static public int[] possibleSeatsNumbersInRooms = new int[]  {30,35,40,55,60};
     static public int[] possibleLeasingCost = new int[]  {150,200,250,300,350};
 
 
+    public Room()
+    {
+        occupiedHoursNumber=0;
+        freeHoursInEachDay = new int[]{maxHoursADay, maxHoursADay, maxHoursADay};
+        for (int i = 0; i < dayQuantity; i++) {
+            for (int j = 0; j < maxHoursADay; j++) {
+                hoursSchedule[i][j] = -1;
+            }
+        }
+    }
 
     void CountOccupiedHoursNumber()
     {
@@ -26,35 +35,27 @@ public class Room {
         freeHoursInEachDay = new int[]{maxHoursADay, maxHoursADay, maxHoursADay};
         int k = 0;
 
-        for (int[] i: hoursSchedule)
+        for (int i=0; i < dayQuantity ; i++)
         {
-
-            for (int j:i)
+            for (int j=0;j < maxHoursADay; j++ )
             {
-                if(j!=0)
-                {occupiedHoursNumber=+1;
-                freeHoursInEachDay[k]-=1;}
+                if(hoursSchedule[i][j] != -1) {
+                    occupiedHoursNumber+=1;
+                    freeHoursInEachDay[k]-=1;
+                }
             }
-            k+=1;
+            k += 1;
         }
+    }
 
-    };
-
-    static public void GenerateRoom()
+    public static void GenerateRoom()
     {
         Room temp = new Room();
         temp.roomId = Scheduler.rooms.size();
         Random rand = new Random();
 
         temp.occupiedHoursNumber = 0;
-        temp.freeHoursInEachDay = new int[]{0, 0, 0};
-        for (int[] i: temp.hoursSchedule)
-        {
-            for (int j:i)
-            {
-                j = 0;
-            }
-        }
+        temp.freeHoursInEachDay = new int[]{10,10,10};
 
         int n = rand.nextInt(5);
         temp.seatsNumber = possibleSeatsNumbersInRooms[n];
@@ -64,32 +65,29 @@ public class Room {
         Scheduler.rooms.add(temp);
     }
 
-    public void PrintRoom()
-    {
-        System.out.println("Room #" + roomId);
-        System.out.println("      " + seatsNumber);
-        System.out.println("      " + leaseCost);
-        System.out.println("      " + occupiedHoursNumber);
+    public String PrintRoomIO()
+    {   String output = ""
+            + "Room #" + roomId
+            + "\n\tSeats: " + seatsNumber
+            + "\n\tLease cost: " + leaseCost
+            + "\n\tOccupied hours: " + occupiedHoursNumber + "\n"
+            + "Hours schedule:";
 
-        System.out.println("Free hours in each day:" );
-        for (int i: freeHoursInEachDay)
-        {
-                System.out.println("      " + i);
-        }
-
-
-        System.out.println("Hours schedule:" );
-        for (int[] i: hoursSchedule)
-        {
-            for (int j:i)
-            {
-                System.out.println("      " + j);
+        for (int i=0; i < dayQuantity; i++)
+        {   output += "\nDay " + (i+1);
+            for (int j=0;j < maxHoursADay; j++ )
+            {   output += "\n\t" + (j+8) + ":15 \t->\t#" + hoursSchedule[i][j];
+                if(hoursSchedule[i][j] != -1){
+                    output += "\t\tppl " + (Scheduler.realizations.get(hoursSchedule[i][j])).enrolledParticipantAmount
+                            + "/" + this.seatsNumber;
+                }
             }
         }
-        System.out.println();
-
-
+        return output;
     }
+
+
+    public int getMaxHoursADay() {return maxHoursADay; }
 
     public int getHoursScheduleRows() {
         return hoursSchedule.length;
@@ -100,7 +98,7 @@ public class Room {
     }
 
     public int[][] getHoursSchedule() {
-        return hoursSchedule;
-    }
+        return hoursSchedule;    }
 
+    public int[] getFreeHoursInEachDay() { return freeHoursInEachDay; }
 }

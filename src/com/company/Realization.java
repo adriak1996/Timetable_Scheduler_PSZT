@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Random;
-
+import java.text.*;
 public class Realization {
 
     public int realizationId;
@@ -12,8 +12,7 @@ public class Realization {
     public int costForHiringLecturer;
     public int courseCost;                   // for all semester
     public int roomId;                       // room where course will take place
-
-    public double fitnessFunction;
+    public double fitnessFunction;           //value of fitness function for second match
 
     public static void GenerateRealization()
     {
@@ -34,19 +33,42 @@ public class Realization {
         Scheduler.realizations.add(temp);
     }
 
-    public void PrintRealization()
+    public double RecalculateFitnessFunction()
     {
-        System.out.println("Realization:     " + this.realizationId);
-        System.out.println("   courseType    " + this.courseTypeId);
-        System.out.println("   courseLength  " + this.courseLength);
-        System.out.println("   maxPartAmount " + this.maxParticipantAmount);
-        System.out.println("   enrolled      " + this.enrolledParticipantAmount);
-        System.out.println("   hiringCost    " + this.costForHiringLecturer);
-        System.out.println("   courseCost    " + this.courseCost);
-        System.out.println("   roomId        " + this.roomId);
-        System.out.println();
+        if(this.roomId == -1) {fitnessFunction = -10000; return fitnessFunction;}
+        Room thisRoom = Scheduler.rooms.get(this.roomId);
 
+        double fitnessFuntionValue;
+
+        int profit = this.enrolledParticipantAmount * this.courseCost;
+        int loss = this.costForHiringLecturer + thisRoom.leaseCost * this.courseLength;
+
+        fitnessFuntionValue = profit - loss;
+        this.fitnessFunction = fitnessFuntionValue;
+
+        return this.fitnessFunction;
     }
+
+
+    public String PrintRealizationIO()
+    {   DecimalFormat df = new DecimalFormat("#.##");
+        String output = ""
+                + "Realization:      " + this.realizationId
+                + "\n\tFitness:      " + df.format(this.RecalculateFitnessFunction())
+                + "\n\tcourseType    " + this.courseTypeId
+                + "\n\tcourseLength  " + this.courseLength;
+        if(this.roomId != -1) output += "\n\tLease cost    " + (Scheduler.rooms.get(this.roomId)).leaseCost;
+        else output += "\n\tLease cost    " + "----";
+
+        output = output
+                + "\n\tmaxPartAmount " + this.maxParticipantAmount
+                + "\n\tenrolled      " + this.enrolledParticipantAmount
+                + "\n\thiringCost    " + this.costForHiringLecturer
+                + "\n\tcourseCost    " + this.courseCost
+                + "\n\troomId        " + this.roomId + "\n\n";
+        return output;
+    }
+
 
     public double getFitnessFunction() {
         return fitnessFunction;
